@@ -11,7 +11,7 @@ class PrimeDemo
 	int count=0;
 		for(int j=1; j<= prime; j++)
 		{
-			if(prime%i==0)
+			if(prime%j==0)
 			{
 				
 				count++;
